@@ -1,5 +1,4 @@
-![image](https://user-images.githubusercontent.com/62715839/219876073-9d14b7e6-6eed-4a2e-8d9a-5c4ac8725fbc.png)
-
+![banner](https://user-images.githubusercontent.com/62715839/219877541-095da5b2-d66a-4b35-af3f-d4b5068e176f.png)
 
 <!--
 **SebasGA19/SebasGA19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

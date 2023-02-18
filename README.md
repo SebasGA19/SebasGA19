@@ -16,12 +16,17 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 # Presentation
-My name is Sebastian, informatic engineer, Front-end & Back-end developer, i have experience in front-end development with VanillaJS and Svelte, currently learning react, in backend i´ve experiences with Python in flask and django Frameworks.
+My name is Sebastian, informatic engineer, Front-end & Back-end developer, i have experience in front-end development with VanillaJS and Svelte, currently learning React, in backend i´ve experience with Python in flask and django Frameworks.
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 # Interests
 I´m interested in Web development, implementing good practices, clean code and unit-testing.
-I´m also interested in data analysis and data science, Python is my favorite language
+I´m also interested in data analysis and data science with Python that is my favorite language
 
+
+
+# My Stats
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SebasGA19)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SebasGA19&layout=compact)](https://github.com/anuraghazra/github-readme-stats)

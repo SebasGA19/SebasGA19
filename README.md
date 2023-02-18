@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 - 🌱 I’m currently learning about Front-End, Back-end development & DevOps
-- 🔭 I’m interested Data Science 
+- 🔭 I’m interested in Data Science 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SebasGA19)](https://github.com/anuraghazra/github-readme-stats)
 

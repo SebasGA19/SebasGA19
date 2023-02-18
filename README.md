@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 # Presentation
 My name is Sebastian, informatic engineer, Front-end & Back-end developer, i have experience in front-end development with VanillaJS and Svelte, currently learning React, in backend i´ve experience with Python in flask and django Frameworks.
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=SebasGA19&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 # Interests
 I´m interested in Web development, implementing good practices, clean code and unit-testing.

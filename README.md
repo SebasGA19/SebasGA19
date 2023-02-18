@@ -1,7 +1,7 @@
 ![banner](https://user-images.githubusercontent.com/62715839/219877541-095da5b2-d66a-4b35-af3f-d4b5068e176f.png)
 
 # Presentation
-My name is Sebastian, informatic engineer, Front-end & Back-end developer, i have experience in front-end development with VanillaJS and Svelte, currently learning React, in backend i´ve experience with Python in flask and django Frameworks.
+My name is Sebastian, informatic engineer, Front-end & Back-end developer, i have experience in front-end development with VanillaJS and Svelte, currently learning React, in backend i´ve experience with Python in flask and django Frameworks following REST API standards
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=SebasGA19&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 

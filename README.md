@@ -29,3 +29,5 @@ I´m also interested in data analysis and data science with Python that is my fa
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SebasGA19)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SebasGA19&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+| <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SebasGA19&layout=compact&hide_border=true" alt="langs"/> | <img align="center" src="https://github-readme-stats.vercel.app/api?SebasGA19=shoriwe&show_icons=true&hide_border=true" alt="SebasGA19 stats"/> |

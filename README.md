@@ -14,3 +14,4 @@ I´m also interested in data analysis and data science with Python that is my fa
 # My Stats
 
 | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SebasGA19&layout=compact&hide_border=true" alt="langs"/> | <img align="center" src="https://github-readme-stats.vercel.app/api?username=SebasGA19&show_icons=true&hide_border=true" alt="SebasGA19 stats"/> |
+| ---------- | ---------- |
